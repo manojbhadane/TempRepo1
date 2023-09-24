@@ -1,32 +1,43 @@
 {
-  "veg": [
+  "data": [
     {
-      "id" : 101,
-      "name" : "Veg-1"
+      "name": "Veg",
+      "list": [
+        {
+          "id": "101",
+          "name": "Veg-1"
+        },
+        {
+          "id": "102",
+          "name": "Veg-2"
+        }
+      ]
     },
     {
-      "id" : 102,
-      "name" : "Veg-2"
-    }
-  ],
-  "nonveg": [
-    {
-      "id" : 301,
-      "name" : "NonVeg-1"
+      "name": "Non-Veg",
+      "list": [
+        {
+          "id": "301",
+          "name": "NonVeg-1"
+        },
+        {
+          "id": "302",
+          "name": "NonVeg-2"
+        }
+      ]
     },
     {
-      "id" : 302,
-      "name" : "NonVeg-2"
-    }
-  ],
-  "kirana": [
-    {
-      "id" : 501,
-      "name" : "k1"
-    },
-    {
-      "id" : 502,
-      "name" : "k2"
+      "name": "Kirana",
+      "list": [
+        {
+          "id": "501",
+          "name": "k-1"
+        },
+        {
+          "id": "502",
+          "name": "k-2"
+        }
+      ]
     }
   ],
   "boolean": true,
