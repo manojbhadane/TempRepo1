@@ -38,6 +38,19 @@
           "name": "k-2"
         }
       ]
+    },
+    {
+      "name": "Other",
+      "list": [
+        {
+          "id": "701",
+          "name": "O-1"
+        },
+        {
+          "id": "702",
+          "name": "O-2"
+        }
+      ]
     }
   ],
   "boolean": true,
