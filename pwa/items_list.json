@@ -1,0 +1,17 @@
+[
+  {
+    "id": 101,
+    "name": "Item A",
+    "short_description": "This is Item A"
+  },
+  {
+    "id": 102,
+    "name": "Item B",
+    "short_description": "This is Item B"
+  },
+  {
+    "id": 103,
+    "name": "Item C",
+    "short_description": "This is Item C"
+  }
+]
